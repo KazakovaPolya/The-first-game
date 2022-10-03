@@ -1,0 +1,10 @@
+C:\Users\Polina\source\repos\игра1\игра1\bin\Debug\игра1.exe.config
+C:\Users\Polina\source\repos\игра1\игра1\bin\Debug\игра1.exe
+C:\Users\Polina\source\repos\игра1\игра1\bin\Debug\игра1.pdb
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.csprojAssemblyReference.cache
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.Properties.Resources.resources
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.csproj.GenerateResource.cache
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.exe
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.pdb
+C:\Users\Polina\source\repos\игра1\игра1\obj\Debug\игра1.Form1.resources
